@@ -22,5 +22,5 @@ lib_summary <- function(){
   pkg_df <- as.data.frame(pkg_tbl,stringsAsFactors = FALSE)
   names(pkg_df) <- c("Library","n-packages")
   pkg_df
-  # comment s
+  # comment sx
 }
