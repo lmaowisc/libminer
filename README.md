@@ -31,7 +31,7 @@ library(libminer)
 lib_summary()
 #>                                                                 Library
 #> 1                                    C:/Program Files/R/R-3.5.3/library
-#> 2 C:/Users/lmaow/AppData/Local/Temp/RtmpwVH6LF/temp_libpath60dc62a24980
+#> 2 C:/Users/lmaow/AppData/Local/Temp/RtmpwVH6LF/temp_libpath60dc5ee71589
 #> 3                   C:/Users/lmaow/OneDrive/Documents/R/win-library/3.5
 #>   n_packages
 #> 1         30
@@ -41,10 +41,10 @@ lib_summary()
 lib_summary(sizes = TRUE)
 #>                                                                 Library
 #> 1                                    C:/Program Files/R/R-3.5.3/library
-#> 2 C:/Users/lmaow/AppData/Local/Temp/RtmpwVH6LF/temp_libpath60dc62a24980
+#> 2 C:/Users/lmaow/AppData/Local/Temp/RtmpwVH6LF/temp_libpath60dc5ee71589
 #> 3                   C:/Users/lmaow/OneDrive/Documents/R/win-library/3.5
 #>   n_packages lib_sizes
 #> 1         30  77159687
-#> 2          1     12552
+#> 2          1     12555
 #> 3        255 882928702
 ```
