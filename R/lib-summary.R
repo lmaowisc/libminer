@@ -5,5 +5,5 @@ lib_summary <- function(){
 
   pkg_df <- as.data.frame(pkg_tbl,stringsAsFactors = FALSE)
   # names(pkg_df) <-
-
+  pkg_df
 }

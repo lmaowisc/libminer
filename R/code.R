@@ -15,4 +15,4 @@ use_r("lib-summary")
 # pkgs <- utils::installed.packages()
 # pkg_tbl <- table(pkgs[,"LibPath"])
 
-load_all()
+load_all() # contr +shift+ L
