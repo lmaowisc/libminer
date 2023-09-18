@@ -4,6 +4,7 @@ lib_summary <- function(){
   pkg_tbl <- table(pkgs[,"LibPath"])
 
   pkg_df <- as.data.frame(pkg_tbl,stringsAsFactors = FALSE)
-  # names(pkg_df) <-
+  names(pkg_df) <- c("Library","n-packages")
   pkg_df
+  # comment
 }
