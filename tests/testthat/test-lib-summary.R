@@ -9,3 +9,13 @@ test_that("lib-summary returns expected results",
           }
 
 )
+
+
+test_that("sizes argument works",{
+  res <- lib_summary(sizes = TRUE)
+  expect_equal(ncol(res), 3)
+
+
+
+
+})
