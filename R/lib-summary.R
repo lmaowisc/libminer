@@ -1,10 +1,6 @@
 
 
 
-
-
-
-
 #' R Library Summary
 #'
 #' Provide a brief summary of the package libraries on
@@ -17,7 +13,6 @@
 #' @export
 #'
 #' @examples lib_summary()
-#'
 lib_summary <- function(sizes = FALSE){
 
   if (!is.logical(sizes)){
