@@ -19,5 +19,4 @@ your machine.
 }
 \examples{
 lib_summary()
-
 }
